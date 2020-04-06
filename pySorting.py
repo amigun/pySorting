@@ -10,7 +10,6 @@ Enjoy your use!
 import os
 import shutil
 from pathlib import Path
-from difflib import SequenceMatcher
 
 # Printing a text logo
 print ('╔═══╗╔╗  ╔╗   ╔═══╗╔═══╗╔═══╗╔════╗╔══╗╔═╗ ╔╗╔═══╗')
