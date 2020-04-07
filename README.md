@@ -17,3 +17,5 @@ To download the repository to your computer, just write this command on the comm
 3. Specify any prefix (at least 4 characters) or skip ```pysort```
 4. ...
 5. Complete! ```Files are sorted!```
+
+![howDownload.gif](https://i.ibb.co/6yZj716/2020-04-07-11-46-32.gif)
