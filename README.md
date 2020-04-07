@@ -1,5 +1,7 @@
 # pySorting
 This program is written in Python. It sorts all files by their formats.
+
+Sorting time - up to 1 second.
 ### How download
 To download the repository to your computer, just write this command on the command line.
 
