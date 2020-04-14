@@ -1,5 +1,5 @@
 # pySorting
-This program is written in Python. It sorts all files by their formats.
+The program can sort all files in a directory into folders, depending on the file format.
 
 Sorting time - up to 1 second.
 ### How download
