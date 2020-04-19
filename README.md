@@ -18,4 +18,5 @@ To download the repository to your computer, just write this command on the comm
 4. ...
 5. Complete! ```Files are sorted!```
 
+Link to an example of the work: https://i.yapx.ru/HFJi1.gif (if the GIF below doesn't work)
 ![howDownload.gif](https://i.yapx.ru/HFJi1.gif)
